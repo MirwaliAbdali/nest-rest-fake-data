@@ -1,0 +1,158 @@
+{
+  "users": [
+    {
+      "name": "Abdali Khan",
+      "username": "Abdali Khan",
+      "email": "abdalikhan@gmail.com",
+      "password": "abdalikhan",
+      "avatar": "assets/product-page/review_avatar2.svg"
+    },
+    {
+      "name": "Ahmad Khan",
+      "username": "Ahmad Khan",
+      "email": "ahmadkhan@gmail.com",
+      "password": "ahmadkhan",
+      "avatar": "assets/product-page/review_avatar2.svg"
+    },
+    {
+      "name": "Farzad Khan",
+      "username": "Farzad Khan",
+      "email": "farzadkhan@gmail.com",
+      "password": "farzadkhan",
+      "avatar": "assets/product-page/review_avatar1.svg"
+    }
+  ],
+  "boxes": [
+    {
+      "src": "/assets/home-page/fast-delivery.svg",
+      "boxTitle": "Free Shipping",
+      "boxQuality": "Order above $200"
+    },
+    {
+      "src": "/assets/home-page/money.svg",
+      "boxTitle": "Money-Back",
+      "boxQuality": "30 days quarantee"
+    },
+    {
+      "src": "/assets/home-page/lock.svg",
+      "boxTitle": "Secure payments",
+      "boxQuality": "Secured by strip"
+    },
+
+    {
+      "src": "/assets/home-page/call.svg",
+      "boxTitle": "24/7 Support",
+      "boxQuality": "Phone and Email support"
+    }
+  ],
+  "reviews": [
+    {
+      "avatar": "assets/product-page/review_avatar1.svg",
+      "name": "Ahmad Khan",
+      "rate": "assets/product-page/fill-black-star.svg",
+      "description": "I bought it 3 weeks ago and now come back just to say Awesome Product. I really enjoy it. At vero eos et accusamus et iusto odiodignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupt et quas molestias excepturi sint non provident."
+    },
+    {
+      "avatar": "assets/product-page/review_avatar2.svg",
+      "name": "Waliullah",
+      "rate": "assets/product-page/fill-black-star.svg",
+      "description": "I bought it 3 weeks ago and now come back just to say Awesome Product. I really enjoy it. At vero eos et accusamus et iusto odiodignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupt et quas molestias excepturi sint non provident."
+    },
+    {
+      "avatar": "assets/product-page/review_avatar1.svg",
+      "name": "Farhad",
+      "rate": "assets/product-page/fill-black-star.svg",
+      "description": "I bought it 3 weeks ago and now come back just to say Awesome Product. I really enjoy it. At vero eos et accusamus et iusto odiodignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupt et quas molestias excepturi sint non provident."
+    },
+    {
+      "avatar": "assets/product-page/review_avatar2.svg",
+      "name": "Naveen ul haq",
+      "rate": "assets/product-page/fill-black-star.svg",
+      "description": "I bought it 3 weeks ago and now come back just to say Awesome Product. I really enjoy it. At vero eos et accusamus et iusto odiodignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupt et quas molestias excepturi sint non provident."
+    },
+
+    {
+      "avatar": "assets/product-page/review_avatar1.svg",
+      "name": "Farhad",
+      "rate": "assets/product-page/fill-black-star.svg",
+      "description": "I bought it 3 weeks ago and now come back just to say Awesome Product. I really enjoy it. At vero eos et accusamus et iusto odiodignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupt et quas molestias excepturi sint non provident."
+    }
+  ],
+
+  "shoppingCards": [
+    {
+      "name": "Loveseat Sofa",
+      "image": "/assets/shop-page/loveSofa.png",
+      "unitPrice": "199.00",
+      "highPrice": 400.0,
+      "cardStatus": "NEW",
+      "cardDiscount": "-50%"
+    },
+    {
+      "name": "Luxury Sofa",
+      "image": "/assets/shop-page/luxurySofa.png",
+      "unitPrice": 299.0,
+      "highPrice": 500.0,
+      "cardStatus": "NEW",
+      "cardDiscount": "-50%"
+    },
+    {
+      "name": "Table Lamp",
+      "image": "/assets/shop-page/tableLamp.png",
+      "unitPrice": 19.0
+    },
+    {
+      "name": "Cozy Sofa",
+      "image": "/assets/shop-page/cozySofa.png",
+      "unitPrice": 299.0
+    },
+    {
+      "name": "White Drawer Unit",
+      "image": "/assets/shop-page/whiteDrawerUnit.png",
+      "unitPrice": 89.99
+    },
+    {
+      "name": "Black Tray Table",
+      "image": "/assets/shop-page/blackTrayTable.png",
+      "productColor": "black",
+      "unitPrice": 19.99,
+      "cardStatus": "NEW",
+      "cardDiscount": "-50%"
+    },
+    {
+      "name": "Table Lamp",
+      "image": "/assets/shop-page/tableLamp1.png",
+      "unitPrice": 19.0
+    },
+    {
+      "name": "Black Brow Side Table",
+      "image": "/assets/shop-page/blackBrowSideTable.png",
+      "productColor": "black",
+      "unitPrice": 16.99
+    },
+    {
+      "name": "Light Beige Pillow",
+      "image": "/assets/shop-page/lightPillow.png",
+      "unitPrice": 3.99,
+      "cardStatus": "NEW",
+      "cardDiscount": "-50%"
+    },
+    {
+      "name": "Table Lamp",
+      "image": "/assets/shop-page/tableLamp2.png",
+      "unitPrice": 39.99
+    },
+    {
+      "name": "Bamboo Basket",
+      "image": "/assets/shop-page/bambooBasket.png",
+      "unitPrice": 9.99
+    },
+    {
+      "name": "Off-white Pillow",
+      "image": "/assets/shop-page/offWhitePillow.png",
+      "unitPrice": 7.99,
+      "cardStatus": "NEW",
+      "cardDiscount": "-50%"
+    }
+  ]
+}
